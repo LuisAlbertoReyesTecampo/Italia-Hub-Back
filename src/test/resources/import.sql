@@ -1,0 +1,3 @@
+INSERT INTO Cliente (ID_CLIENTE, NOMBRE, APELLIDO,BLN_ACTIVO) values (SEQ_CLIENTE.nextval,'Ulises','Urbina',1);
+INSERT INTO Cliente (ID_CLIENTE, NOMBRE, APELLIDO,BLN_ACTIVO) values (SEQ_CLIENTE.nextval,'Luis','Tecampo',1);
+INSERT INTO Cliente (ID_CLIENTE, NOMBRE, APELLIDO,BLN_ACTIVO) values (SEQ_CLIENTE.nextval,'Adrian','Teran',1);
